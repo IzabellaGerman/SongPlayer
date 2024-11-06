@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\!files\\_C#\\GitHub\\8_SongPlayer\\SongPlayer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{393430BE-DE5C-46E7-A1F9-CDA59715E3E5}|SongPlayer\\SongPlayer.csproj|c:\\!files\\_c#\\github\\8_songplayer\\songplayer\\songplayer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{393430BE-DE5C-46E7-A1F9-CDA59715E3E5}|SongPlayer\\SongPlayer.csproj|solutionrelative:songplayer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{393430BE-DE5C-46E7-A1F9-CDA59715E3E5}|SongPlayer\\SongPlayer.csproj|c:\\!files\\_c#\\github\\8_songplayer\\songplayer\\songplayer\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{393430BE-DE5C-46E7-A1F9-CDA59715E3E5}|SongPlayer\\SongPlayer.csproj|solutionrelative:songplayer\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{393430BE-DE5C-46E7-A1F9-CDA59715E3E5}|SongPlayer\\SongPlayer.csproj|c:\\!files\\_c#\\github\\8_songplayer\\songplayer\\songplayer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{393430BE-DE5C-46E7-A1F9-CDA59715E3E5}|SongPlayer\\SongPlayer.csproj|solutionrelative:songplayer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{393430BE-DE5C-46E7-A1F9-CDA59715E3E5}|SongPlayer\\SongPlayer.csproj|c:\\!files\\_c#\\github\\8_songplayer\\songplayer\\songplayer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{393430BE-DE5C-46E7-A1F9-CDA59715E3E5}|SongPlayer\\SongPlayer.csproj|solutionrelative:songplayer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,27 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\!files\\_C#\\GitHub\\8_SongPlayer\\SongPlayer\\SongPlayer\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "SongPlayer\\MainWindow.xaml",
-              "ToolTip": "C:\\!files\\_C#\\GitHub\\8_SongPlayer\\SongPlayer\\SongPlayer\\MainWindow.xaml",
-              "RelativeToolTip": "SongPlayer\\MainWindow.xaml",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\!files\\_C#\\GitHub\\8_SongPlayer\\SongPlayer\\SongPlayer\\App.xaml",
+              "RelativeDocumentMoniker": "SongPlayer\\App.xaml",
+              "ToolTip": "C:\\!files\\_C#\\GitHub\\8_SongPlayer\\SongPlayer\\SongPlayer\\App.xaml",
+              "RelativeToolTip": "SongPlayer\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-06T07:00:17.649Z",
+              "WhenOpened": "2024-11-06T07:37:43.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\!files\\_C#\\GitHub\\8_SongPlayer\\SongPlayer\\SongPlayer\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "SongPlayer\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\!files\\_C#\\GitHub\\8_SongPlayer\\SongPlayer\\SongPlayer\\MainWindow.xaml.cs",
-              "RelativeToolTip": "SongPlayer\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:00:16.028Z",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\!files\\_C#\\GitHub\\8_SongPlayer\\SongPlayer\\SongPlayer\\MVVM\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SongPlayer\\MVVM\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\!files\\_C#\\GitHub\\8_SongPlayer\\SongPlayer\\SongPlayer\\MVVM\\View\\MainWindow.xaml",
+              "RelativeToolTip": "SongPlayer\\MVVM\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T07:37:14.178Z",
               "EditorCaption": ""
             }
           ]

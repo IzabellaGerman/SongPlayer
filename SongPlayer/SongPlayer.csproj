@@ -8,4 +8,19 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="MVVM\View\Image\TitleBackGround.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="MVVM\Model\" />
+    <Folder Include="MVVM\ViewMOdel\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="MVVM\View\Image\TitleBackGround.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
 </Project>
